@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-Speedometer</string>
+    <string name="total_mileage">总里程 </string>
+</resources>
