@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.gc.speedometer">
 
+    <!-- application 下设置 android:largeHeap="true" ：设置可申请使用更大的内存,内存宝贵,如非特殊情况,请勿开启 -->
     <application
         android:name=".application.MyApplication"
         android:allowBackup="true"
